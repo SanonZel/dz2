@@ -1,0 +1,19 @@
+.mainBlock {
+    width: 500px;
+    height: 500px;
+    border: 1px solid;
+    position: relative;
+    margin-bottom: 120px;
+}
+
+
+.block {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+button {
+    border-radius: 50px;
+    background-color: lightblue;
+}
